@@ -1,4 +1,4 @@
-#  
+#  Enhance Craft for macOS with secure Addon for Craft for macOS - custom themes and collaboration, the #1 addon. Includes custom themes and collaboration for a smoother experience.
 
 
 
